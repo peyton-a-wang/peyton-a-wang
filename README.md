@@ -1,10 +1,12 @@
 # Hi there, I'm Peyton! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-peyton--wang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peyton-wang/)](https://www.linkedin.com/in/peyton-wang) [![Gmail Badge](https://img.shields.io/badge/-peytonwang2000-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:peytonwang2000@gmail.com)](mailto:peytonwang2000@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@funsizedpey-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/funsizedpey/)](https://www.instagram.com/funsizedpey/)
+[![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/-peyton--wang-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/peyton-wang/)](https://www.linkedin.com/in/peyton-wang) 
+[![Gmail Badge](https://img.shields.io/badge/-peytonwang2000@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:peytonwang2000@gmail.com)](mailto:peytonwang2000@gmail.com)
 
-I'm a current SWE @ [Splunk](https://www.splunk.com/), former SWE intern @ [E*TRADE from Morgan Stanley](https://us.etrade.com/l/morganstanley/investing-and-banking), and [Wellesley College](https://www.wellesley.edu/) alum ('22). 
+I'm a current SWE @ [Splunk][splunk], former SWE intern @ [E*TRADE from Morgan Stanley][etrade-ms], and [Wellesley College][wellesley] alum ('22).
+Feel free to learn more about me by checking out my [personal website][my-website] or connecting with me above!
 
-In my free time, you'll find me singing/recording with friends, solving NYT crossword/sudoku puzzles, taking walks around the neighborhood with my family, or watching videos on cute pets/food.
-
-Feel free to learn more about me by checking out my [personal website](https://peyton-a-wang.github.io) or connecting with me above!
+[splunk]:     https://www.splunk.com/
+[etrade-ms]:  https://us.etrade.com/l/morganstanley/investing-and-banking
+[wellesley]:  https://www.wellesley.edu/
+[my-website]: https://peyton-a-wang.github.io
